@@ -1,0 +1,74 @@
+Lezione 1
+Nozioni generali
+Il primo compito di un addetto alla sicurezza è la conoscenza del territorio in cui deve operare, per lavorare di prevenzione.
+La zona operativa di un bagnino di salvataggio in mare è la "zona dei frangenti".
+Le spiagge del Mediterraneo (mare chiuso) sono: "spiagge dominate dalle onde".
+Parametri delle onde:
+- cresta = parte più alta;
+- cavo = parte più bassa;
+- altezza (h) = distanza tra il cavo e la cresta;
+- lunghezza (l) = distanza tra una cresta e l'altra;
+- periodo = tempo intercorso tra il passaggio di una cresta e di quella successiva nello stesso punto;
+La profondità dell'acqua corrisponde alla distanza che intercorre fra il livello di mare calmo e il fondo marino.
+L'onda in acqua profonda
+In acqua profonda (mare aperto), al passaggio di un'onda, l'acqua si alza e si abbassa ritmicamente ma non si sposta in senso orizzontale.
+Queste onde non trasportano acqua, ma trasferiscono solo energia.
+Onde in acqua bassa
+Si dicono onde in acqua bassa le onde che si propagano in uno specchio d'acqua la cui profondità sia inferiore alla metà della loro lunghezza: questa profondità è detta anche base dell'onda (dove l'onda non provoca alcun effetto).
+La zona operativa dei bagnini è in genere una zona di acque basse.
+Rifrazione delle onde
+Le onde, formate dal vento, si propagano secondo la direzione impressa dal vento stesso finché in acqua fonda, quando sono però in prossimità della costa cominciano ad incurvarsi tendendo a disporsi parallelamente alla battigia.
+Infatti, entrando in acqua via via più bassa cominciano ad interagire col fondale, rallentando per attrito.
+Perciò se si avvicinano in angolo la parte più vicina comincerà a rallentare prima per questa causa, mentre la parte più lontana si avvicinerà velocemente, spostando l'onda in modo parallelo alla battigia.
+Di conseguenza la velocità di propagazione dell'onda non è uniforme sull'intero fronte.
+Il fenomeno di deviazione dell'onda si chiama rifrazione.
+Le onde si allineano quindi ai contorni del fondale.
+Nelle carte nautiche il fondale è descritto dalle linee batimetriche, linee curve affiancate da un numero indicante la profondità a cui si trovano.
+La linea di litorale è la linea che separa la terra dal mare, ed ha valore 0.
+Le onde in acqua bassa sono perciò uno specchio del fondale perché seguono i contorni del fondale.
+L'onda, oltre a rifrangere in acqua bassa, trasforma la sua energia da oscillatoria ad un movimento traslatorio.
+Le mareggiate potrebbero modificare le linee batimetriche del fondale.
+I frangenti
+Durante l'interazione con il fondale le onde subiscono altre trasformazioni.
+Le prime onde trovandosi in acque sempre più basse sono frenate e rallentate dal fondale, quelle dietro, ancora in acqua profonda, più veloci, percorrono la distanza che le separa dalle prime, così la lunghezza dell'onda si riduce mentre l'altezza dell'onda andrà ad aumentare man mano che ci si avvicinerà alla battigia.
+Le onde diventeranno molto più ripide e acuminate, raggiungendo prima o poi un punto di rottura, diventando instabili: la cresta cade così in avanti spumeggiando e trasformando l'onda in un'onda frangente.
+Un'onda frange quando l'altezza equivale ai 3/4 della profondità dell'acqua.
+La risacca di fondo e le correnti provocate dal moto ondoso
+La rifrazione distribuisce sulla costa l'energia delle onde, concentrandola su certe zone e distribuendola su altre.
+Il metodo delle ortogonali permette di capire dove si concentrerà l'energia:
+- si tracciano delle ortogonali (linee rette) sull'onda in acqua profonda, dove l'energia è ancora distribuita su tutto il fronte in modo uniforme.
+- con l'avvicinarsi delle onde alla costa si guarda dove le linee convergono (concentrazione di energia) e dove divergono (dispersione di energia).
+
+L'energia di un'onda è proporzionale all'altezza e quindi alla quantità di acqua di cui è composta.
+Se il fondale non è perfettamente regolare possiamo trovare delle zone di accumulo ("sovralzo d'onda") e zone di depressione ("ribasso d'onda").
+Lo squilibrio tra le due zone è compensato dalla risacca di fondo, che a differenza della semplice risacca (l'onda che torna indietro dopo essersi slanciata sulla battigia), ma è un flusso d'acqua che scorre dentro la stessa onda collocandosi a metà della sezione verticale.
+In altri casi il sovralzo d'acqua accumulata si va ad espandere verso una zona depressa mediante una corrente, e concentra in un unico tratto queste energie.
+Quando fluisce parallelamente alla linea di riva si chiama corrente litorale.
+Quando invece spinge verso il mare aperto viene chiamata corrente di ritorno (es. molo).
+Zona dei frangenti e tipi di spiaggia
+La zona dei frangenti, il più consueto campo operativo per i bagnini di salvataggio, è una zona dove si possono provocare correnti di ritorno molto forti.
+Ci sono diversi tipi di spiaggia:
+- Dominate dalle correnti (bassa pendenza, spiagge relativamente piatte, fondali sabbiosi); 
+- Ripide (alta pendenza, fondali rocciosi);
+- Senza correnti di ritorno (fondali sabbiosi, spiagge piatte, pendenza minima);
+- Artificializzate;
+La spiaggia
+- costa = zona reciproca di influenza fra il mare e la terra (diversi chilometri);
+- litorale = punto di contatto tra il mare e la terra;
+- spiaggia = depositi di sabbia/ghiaia in prossimità della riva del mare
+- mare aperto = profondità del fondale superiore alla metà della lunghezza delle onde di tempesta;
+- chiusura della spiaggia = limite della spiaggia sommersa
+- fondale antistante = parte sommersa della spiaggia;
+- zona dei frangenti = zona dove le onde frangono;
+- zona di traslazione = zona dove le onde più basse frangono;
+- zona di battigia = zona di confine tra l'arenile e il fondale che le onde percorrono per inerzia;
+- canali litorali e banchi di sabbia;
+- arenile = parte emersa della spiaggia;
+- cresta della berma = spigolo che separa la zona di battigia dall'inizio della berma;
+- berma = gradino pianeggiante che forma l'arenile (possono essercene più di una);
+- falesia = parete verticale in roccia dopo la berma;
+- dune = cumulo di sabbia dopo la berma;
+La spiaggia comprende quindi due zone:
+- arenile = spiaggia emersa;
+- fondale = spiaggia sommersa;
+La spiaggia è l'ultimo tratto di mare e non il primo tratto di terra.
